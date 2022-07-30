@@ -1,0 +1,8 @@
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug/CMakeFiles/ClionProj.dir
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug/CMakeFiles/stackArr.dir
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug/CMakeFiles/evaluate.dir
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug/CMakeFiles/inFixToPost.dir
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug/CMakeFiles/stackLinked.dir
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug/CMakeFiles/searchingLiveSess.dir
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,65 @@
+import java.util.*;
+  import java.io.*;
+  public class Main {
+    public static void main(String args[]) throws IOException {
+      //write your code here
+      Scanner sc = new Scanner(System.in);
+      int n = sc.nextInt();
+      int[] arr = new int[n];
+      for(int i=0; i<n; i++)
+        arr[i] = sc.nextInt();
+      sort(arr,0,n-1);
+      //Arrays.sort(arr);
+      int q = sc.nextInt();
+      while(q-- >0)
+      {
+        int v = sc.nextInt();
+        int count = 0;
+        int left =0;
+        int right = n-1;
+        while(left<=right)
+        {
+          int mid = left + ((right-left)/2);
+          if(arr[mid]<= v &&(mid+1 > right || arr[mid+1] > v))
+          {
+            count = mid+1;;
+            break;
+          }
+          else if(arr[mid] <= v)
+            left = mid+1;
+          else
+            right = mid-1;
+        }
+        System.out.println(count);
+      }
+    }
+    public static void sort(int[] arr, int first, int last)
+	  {
+		int i,j,pivot,temp;
+		i = first;
+		j = last;
+		pivot = first;
+		while(i<j)
+		{
+			while(arr[i] <= arr[pivot] && i < last)
+			{
+				i++;
+			}
+			while(arr[j] >= arr[pivot] && j > first)
+			{
+				j--;
+			}
+			if(i<j)
+			{
+				temp = arr[i];
+				arr[i] = arr[j];
+				arr[j] = temp;
+			}
+			temp = arr[j];
+			arr[j] = arr[pivot];
+			arr[pivot] = temp;
+			sort(arr, first,j-1);
+			sort(arr, j+1, last);
+		}
+	  }
+  }

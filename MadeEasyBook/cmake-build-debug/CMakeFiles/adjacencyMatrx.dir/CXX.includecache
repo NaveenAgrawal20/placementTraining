@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/MadeEasyBook/chapter18GameThoery/GrundNum2.cpp
+iostream
+-
+unordered_set
+-
+
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/MadeEasyBook/chapter18GameThoery/GrundyNum1.cpp
+iostream
+-
+unordered_set
+-
+
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/MadeEasyBook/chapter18GameThoery/NimSum.cpp
+iostream
+-
+

@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="MadeEasyBook" targetName="lcsMem" />
+      <config projectName="MadeEasyBook" targetName="circle" />
+      <config projectName="MadeEasyBook" targetName="subSumRec" />
+      <config projectName="MadeEasyBook" targetName="ReverseKnodes" />
+      <config projectName="MadeEasyBook" targetName="chessWorld" />
+      <config projectName="MadeEasyBook" targetName="fearofHe" />
+      <config projectName="MadeEasyBook" targetName="timeBits" />
+      <config projectName="MadeEasyBook" targetName="Nqueen" />
+      <config projectName="MadeEasyBook" targetName="quickSelect_kthMin" />
+      <config projectName="MadeEasyBook" targetName="ratInMaze" />
+      <config projectName="MadeEasyBook" targetName="lineDis" />
+      <config projectName="MadeEasyBook" targetName="GrundNum2" />
+      <config projectName="MadeEasyBook" targetName="adjListOOps" />
+      <config projectName="MadeEasyBook" targetName="lps_leetcode" />
+      <config projectName="MadeEasyBook" targetName="palindromLPS" />
+      <config projectName="MadeEasyBook" targetName="delayTime" />
+      <config projectName="MadeEasyBook" targetName="minimax" />
+      <config projectName="MadeEasyBook" targetName="Dijikstra" />
+      <config projectName="MadeEasyBook" targetName="seg_evenOdd" />
+      <config projectName="MadeEasyBook" targetName="BellmanFord" />
+      <config projectName="MadeEasyBook" targetName="graphOops" />
+      <config projectName="MadeEasyBook" targetName="cycleDetection" />
+      <config projectName="MadeEasyBook" targetName="topologicalSort" />
+      <config projectName="MadeEasyBook" targetName="nearestCell" />
+      <config projectName="MadeEasyBook" targetName="covexHull" />
+      <config projectName="MadeEasyBook" targetName="quickSelect_KthMinO_n" />
+      <config projectName="MadeEasyBook" targetName="possAttack1" />
+      <config projectName="MadeEasyBook" targetName="bottomV" />
+      <config projectName="MadeEasyBook" targetName="adjacencyMatrx" />
+      <config projectName="MadeEasyBook" targetName="pointIntersection" />
+      <config projectName="MadeEasyBook" targetName="adjListVec" />
+      <config projectName="MadeEasyBook" targetName="webP" />
+      <config projectName="MadeEasyBook" targetName="rabinKarp" />
+      <config projectName="MadeEasyBook" targetName="HistoGramArea" />
+      <config projectName="MadeEasyBook" targetName="path" />
+      <config projectName="MadeEasyBook" targetName="capitalLetter" />
+      <config projectName="MadeEasyBook" targetName="dotAndCrossProd" />
+      <config projectName="MadeEasyBook" targetName="35_MedOf2SortedArr_DifSize" />
+      <config projectName="MadeEasyBook" targetName="UndirectedCycle" />
+      <config projectName="MadeEasyBook" targetName="NimSum" />
+      <config projectName="MadeEasyBook" targetName="mobileNum" />
+      <config projectName="MadeEasyBook" targetName="EqDiv" />
+      <config projectName="MadeEasyBook" targetName="reverseKnodes" />
+      <config projectName="MadeEasyBook" targetName="solutionsHELP" />
+      <config projectName="MadeEasyBook" targetName="ratMaze" />
+      <config projectName="MadeEasyBook" targetName="GrundyNum1" />
+      <config projectName="MadeEasyBook" targetName="zIndexStringMatch" />
+      <config projectName="MadeEasyBook" targetName="reversek_nodes" />
+      <config projectName="MadeEasyBook" targetName="restrctedNimSumSpragueGrndy" />
+      <config projectName="MadeEasyBook" targetName="ch-14Trees" />
+      <config projectName="MadeEasyBook" targetName="circleCenter" />
+      <config projectName="MadeEasyBook" targetName="longestCommonString_LCSTR" />
+      <config projectName="MadeEasyBook" targetName="phoneNum" />
+      <config projectName="MadeEasyBook" targetName="pairsKsumwithremoval" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9d0aa33-70d3-4baf-a2bf-d6735cbb77e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1vFdAdh2miNIPG6GMHovMEKzOPb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LVBBR/ch-13Dynamic/LCS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\data_strc\usingjava\Competitive\DsaCompttv\WithCpp\MadeEasyBook\LVBBR\ch-13Dynamic\LCS" />
+      <recent name="E:\data_strc\usingjava\Competitive\DsaCompttv\WithCpp\MadeEasyBook\linkedlist" />
+      <recent name="E:\data_strc\usingjava\Competitive\DsaCompttv\WithCpp\MadeEasyBook\LVBBR" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\data_strc\usingjava\Competitive\DsaCompttv\WithCpp\MadeEasyBook\LVBBR\ch-13Dynamic\LCS" />
+      <recent name="E:\data_strc\usingjava\Competitive\DsaCompttv\WithCpp\MadeEasyBook\LVBBR\Ch-7GRAPH" />
+      <recent name="E:\data_strc\usingjava\Competitive\DsaCompttv\WithCpp\MadeEasyBook\graph\cycle" />
+      <recent name="E:\data_strc\usingjava\Competitive\DsaCompttv\WithCpp\MadeEasyBook\BackTracking" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.path">
+    <configuration name="35_MedOf2SortedArr_DifSize" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="35_MedOf2SortedArr_DifSize" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="35_MedOf2SortedArr_DifSize">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BellmanFord" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="BellmanFord" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="BellmanFord">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dijikstra" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="Dijikstra" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="Dijikstra">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqDiv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="EqDiv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="EqDiv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrundNum2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="GrundNum2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="GrundNum2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrundyNum1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="GrundyNum1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="GrundyNum1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HistoGramArea" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="HistoGramArea" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="HistoGramArea">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NimSum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="NimSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="NimSum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nqueen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="Nqueen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="Nqueen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseKnodes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="ReverseKnodes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="ReverseKnodes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UndirectedCycle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="UndirectedCycle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="UndirectedCycle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adjListOOps" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="adjListOOps" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="adjListOOps">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adjListVec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="adjListVec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="adjListVec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adjacencyMatrx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="adjacencyMatrx" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="adjacencyMatrx">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bottomV" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="bottomV" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="bottomV">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="capitalLetter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="capitalLetter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="capitalLetter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch-14Trees" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="ch-14Trees" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="ch-14Trees">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chessWorld" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="chessWorld" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="chessWorld">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="circle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="circle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="circle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="circleCenter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="circleCenter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="circleCenter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="covexHull" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="covexHull" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="covexHull">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cycleDetection" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="cycleDetection" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="cycleDetection">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="delayTime" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="delayTime" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="delayTime">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dotAndCrossProd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="dotAndCrossProd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="dotAndCrossProd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fearofHe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="fearofHe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="fearofHe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="graphOops" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="graphOops" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="graphOops">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcsMem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="lcsMem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="lcsMem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lineDis" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="lineDis" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="lineDis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestCommonString_LCSTR" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="longestCommonString_LCSTR" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="longestCommonString_LCSTR">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lps_leetcode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="lps_leetcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="lps_leetcode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minimax" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="minimax" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="minimax">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mobileNum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="mobileNum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="mobileNum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nearestCell" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="nearestCell" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="nearestCell">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pairsKsumwithremoval" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="pairsKsumwithremoval" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="pairsKsumwithremoval">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindromLPS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="palindromLPS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="palindromLPS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="path" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="path" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="path">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="phoneNum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="phoneNum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="phoneNum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pointIntersection" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="pointIntersection" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="pointIntersection">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="possAttack1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="possAttack1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="possAttack1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quickSelect_KthMinO_n" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="quickSelect_KthMinO_n" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="quickSelect_KthMinO_n">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quickSelect_kthMin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="quickSelect_kthMin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="quickSelect_kthMin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rabinKarp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="rabinKarp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="rabinKarp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ratInMaze" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="ratInMaze" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="ratInMaze">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ratMaze" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="ratMaze" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="ratMaze">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="restrctedNimSumSpragueGrndy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="restrctedNimSumSpragueGrndy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="restrctedNimSumSpragueGrndy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseKnodes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="reverseKnodes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="reverseKnodes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reversek_nodes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="reversek_nodes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="reversek_nodes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seg_evenOdd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="seg_evenOdd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="seg_evenOdd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solutionsHELP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="solutionsHELP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="solutionsHELP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subSumRec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="subSumRec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="subSumRec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timeBits" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="timeBits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="timeBits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topologicalSort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="topologicalSort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="topologicalSort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="webP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="webP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="webP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zIndexStringMatch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MadeEasyBook" TARGET_NAME="zIndexStringMatch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MadeEasyBook" RUN_TARGET_NAME="zIndexStringMatch">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.35_MedOf2SortedArr_DifSize" />
+      <item itemvalue="CMake Application.BellmanFord" />
+      <item itemvalue="CMake Application.Dijikstra" />
+      <item itemvalue="CMake Application.EqDiv" />
+      <item itemvalue="CMake Application.GrundNum2" />
+      <item itemvalue="CMake Application.GrundyNum1" />
+      <item itemvalue="CMake Application.HistoGramArea" />
+      <item itemvalue="CMake Application.NimSum" />
+      <item itemvalue="CMake Application.Nqueen" />
+      <item itemvalue="CMake Application.ReverseKnodes" />
+      <item itemvalue="CMake Application.UndirectedCycle" />
+      <item itemvalue="CMake Application.adjListOOps" />
+      <item itemvalue="CMake Application.adjListVec" />
+      <item itemvalue="CMake Application.adjacencyMatrx" />
+      <item itemvalue="CMake Application.bottomV" />
+      <item itemvalue="CMake Application.capitalLetter" />
+      <item itemvalue="CMake Application.ch-14Trees" />
+      <item itemvalue="CMake Application.chessWorld" />
+      <item itemvalue="CMake Application.circleCenter" />
+      <item itemvalue="CMake Application.circle" />
+      <item itemvalue="CMake Application.covexHull" />
+      <item itemvalue="CMake Application.cycleDetection" />
+      <item itemvalue="CMake Application.delayTime" />
+      <item itemvalue="CMake Application.dotAndCrossProd" />
+      <item itemvalue="CMake Application.fearofHe" />
+      <item itemvalue="CMake Application.graphOops" />
+      <item itemvalue="CMake Application.lcsMem" />
+      <item itemvalue="CMake Application.lineDis" />
+      <item itemvalue="CMake Application.longestCommonString_LCSTR" />
+      <item itemvalue="CMake Application.lps_leetcode" />
+      <item itemvalue="CMake Application.minimax" />
+      <item itemvalue="CMake Application.mobileNum" />
+      <item itemvalue="CMake Application.nearestCell" />
+      <item itemvalue="CMake Application.pairsKsumwithremoval" />
+      <item itemvalue="CMake Application.palindromLPS" />
+      <item itemvalue="CMake Application.path" />
+      <item itemvalue="CMake Application.phoneNum" />
+      <item itemvalue="CMake Application.pointIntersection" />
+      <item itemvalue="CMake Application.possAttack1" />
+      <item itemvalue="CMake Application.quickSelect_KthMinO_n" />
+      <item itemvalue="CMake Application.quickSelect_kthMin" />
+      <item itemvalue="CMake Application.rabinKarp" />
+      <item itemvalue="CMake Application.ratInMaze" />
+      <item itemvalue="CMake Application.ratMaze" />
+      <item itemvalue="CMake Application.restrctedNimSumSpragueGrndy" />
+      <item itemvalue="CMake Application.reverseKnodes" />
+      <item itemvalue="CMake Application.reversek_nodes" />
+      <item itemvalue="CMake Application.seg_evenOdd" />
+      <item itemvalue="CMake Application.solutionsHELP" />
+      <item itemvalue="CMake Application.subSumRec" />
+      <item itemvalue="CMake Application.timeBits" />
+      <item itemvalue="CMake Application.topologicalSort" />
+      <item itemvalue="CMake Application.webP" />
+      <item itemvalue="CMake Application.zIndexStringMatch" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9d0aa33-70d3-4baf-a2bf-d6735cbb77e5" name="Default Changelist" comment="" />
+      <created>1626161628118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626161628118</updated>
+      <workItem from="1626161630418" duration="2517000" />
+      <workItem from="1626177418341" duration="5477000" />
+      <workItem from="1626187316259" duration="3431000" />
+      <workItem from="1626207621887" duration="490000" />
+      <workItem from="1626255357243" duration="16113000" />
+      <workItem from="1626293567256" duration="2418000" />
+      <workItem from="1626333690150" duration="12596000" />
+      <workItem from="1626420897772" duration="1293000" />
+      <workItem from="1626460241827" duration="5038000" />
+      <workItem from="1626947492651" duration="4847000" />
+      <workItem from="1627059843781" duration="2882000" />
+      <workItem from="1627110173838" duration="1762000" />
+      <workItem from="1627196509016" duration="2110000" />
+      <workItem from="1627493538997" duration="3528000" />
+      <workItem from="1627548288005" duration="4870000" />
+      <workItem from="1627583613675" duration="1629000" />
+      <workItem from="1627590959290" duration="755000" />
+      <workItem from="1627626459738" duration="1839000" />
+      <workItem from="1627636996806" duration="5201000" />
+      <workItem from="1627677138323" duration="2280000" />
+      <workItem from="1627805549759" duration="595000" />
+      <workItem from="1627811600400" duration="1281000" />
+      <workItem from="1627917626703" duration="13590000" />
+      <workItem from="1627976510580" duration="2483000" />
+      <workItem from="1627983145623" duration="1234000" />
+      <workItem from="1627984753978" duration="1812000" />
+      <workItem from="1628010074627" duration="6533000" />
+      <workItem from="1628062194818" duration="8117000" />
+      <workItem from="1628078527670" duration="36000" />
+      <workItem from="1628408846774" duration="5726000" />
+      <workItem from="1628613182504" duration="5458000" />
+      <workItem from="1628655104576" duration="4011000" />
+      <workItem from="1628931344435" duration="1417000" />
+      <workItem from="1629363420093" duration="5340000" />
+      <workItem from="1629459422416" duration="10541000" />
+      <workItem from="1629533947237" duration="1662000" />
+      <workItem from="1629707997852" duration="16964000" />
+      <workItem from="1629790296120" duration="2858000" />
+      <workItem from="1629799439622" duration="2891000" />
+      <workItem from="1629919553265" duration="3599000" />
+      <workItem from="1629961517543" duration="8033000" />
+      <workItem from="1630172299199" duration="3691000" />
+      <workItem from="1630225058087" duration="6523000" />
+      <workItem from="1630310649056" duration="2850000" />
+      <workItem from="1630326175847" duration="11037000" />
+      <workItem from="1630431053585" duration="2422000" />
+      <workItem from="1630612001465" duration="926000" />
+      <workItem from="1630657221315" duration="2090000" />
+      <workItem from="1630956786828" duration="2272000" />
+      <workItem from="1631026120306" duration="655000" />
+      <workItem from="1631522733057" duration="776000" />
+      <workItem from="1631544355153" duration="1672000" />
+      <workItem from="1631614616084" duration="2045000" />
+      <workItem from="1631646438495" duration="1729000" />
+      <workItem from="1631693021409" duration="5891000" />
+      <workItem from="1631734811407" duration="2487000" />
+      <workItem from="1631784920642" duration="3158000" />
+      <workItem from="1632154041975" duration="1590000" />
+      <workItem from="1632292701542" duration="1346000" />
+      <workItem from="1632546990989" duration="2698000" />
+      <workItem from="1632585140406" duration="3414000" />
+      <workItem from="1632823457504" duration="1793000" />
+      <workItem from="1632860542958" duration="194000" />
+      <workItem from="1633180224472" duration="1986000" />
+      <workItem from="1636794180396" duration="732000" />
+      <workItem from="1641137184534" duration="5568000" />
+      <workItem from="1641212484465" duration="4927000" />
+      <workItem from="1641235855780" duration="7984000" />
+      <workItem from="1641278288834" duration="1550000" />
+      <workItem from="1641285586150" duration="13225000" />
+      <workItem from="1641806846221" duration="4448000" />
+      <workItem from="1642224559750" duration="7440000" />
+      <workItem from="1647063952215" duration="3033000" />
+      <workItem from="1647073486950" duration="3186000" />
+      <workItem from="1651336486242" duration="4511000" />
+      <workItem from="1651492439146" duration="699000" />
+      <workItem from="1651669819070" duration="6322000" />
+      <workItem from="1651839962658" duration="1365000" />
+      <workItem from="1652003701130" duration="3236000" />
+      <workItem from="1652083445746" duration="989000" />
+      <workItem from="1652191917081" duration="305000" />
+      <workItem from="1652289577160" duration="4534000" />
+      <workItem from="1652505454495" duration="20245000" />
+      <workItem from="1652606470823" duration="648000" />
+      <workItem from="1652695510794" duration="4409000" />
+      <workItem from="1652788307821" duration="4234000" />
+      <workItem from="1653035457836" duration="2919000" />
+      <workItem from="1653041294892" duration="7000" />
+      <workItem from="1653046596996" duration="760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652003798801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1652003798801" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652516803878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1652516803878" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1651336887561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651336887561" />
+    <state width="737" height="590" key="GridCell.Tab.0.bottom" timestamp="1653047365327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="590" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653047365327" />
+    <state width="737" height="590" key="GridCell.Tab.0.center" timestamp="1653047365327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="590" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1653047365327" />
+    <state width="737" height="590" key="GridCell.Tab.0.left" timestamp="1653047365327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="590" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1653047365327" />
+    <state width="737" height="590" key="GridCell.Tab.0.right" timestamp="1653047365327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="590" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1653047365327" />
+    <state width="737" height="590" key="GridCell.Tab.1.bottom" timestamp="1653047365327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="590" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653047365327" />
+    <state width="737" height="590" key="GridCell.Tab.1.center" timestamp="1653047365327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="590" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1653047365327" />
+    <state width="737" height="590" key="GridCell.Tab.1.left" timestamp="1653047365327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="590" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1653047365327" />
+    <state width="737" height="590" key="GridCell.Tab.1.right" timestamp="1653047365327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="590" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1653047365327" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1651339668142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651339668142" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1652298248765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1652298248765" />
+    <state x="465" y="238" width="966" height="348" key="com.intellij.ide.util.TipDialog" timestamp="1653046595813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" width="966" height="348" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1653046595813" />
+    <state x="331" y="16" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1652552548004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="16" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1652552548004" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1652542768585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1652542768585" />
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1652533739579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1652533739579" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1651677956607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1651677956607" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1651670139802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1651670139802" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>49</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/heapAndGreedy/Heap.cpp</url>
+          <line>65</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/heapAndGreedy/heapPrep.cpp</url>
+          <line>52</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BackTracking/ratMaze.cpp</url>
+          <line>41</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BackTracking/Nqueen.cpp</url>
+          <line>46</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BackTracking/capitalLetter.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/graph/adjListVec.cpp</url>
+          <line>51</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/graph/nearestCell.cpp</url>
+          <line>5</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/graph/lvBbbr450/ratInMaze.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tcs/webP.cpp</url>
+          <line>9</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/EqDiv.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/EqDiv.cpp</url>
+          <line>51</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/seg_evenOdd.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LVBBR/bottomV.cpp</url>
+          <line>146</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LVBBR/mobileNum.cpp</url>
+          <line>51</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/delayTime.cpp</url>
+          <line>60</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/delayTime.cpp</url>
+          <line>44</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/delayTime.cpp</url>
+          <line>53</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/graph/shortestPath/Dijikstra.cpp</url>
+          <line>96</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/path.cpp</url>
+          <line>56</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/MadeEasyBook/EqDiv.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+unordered_map
+-
+

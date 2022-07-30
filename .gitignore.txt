@@ -1,0 +1,13 @@
+# C/C++ Files object files 
+*.o 
+*.a 
+*.so 
+*.exe
+
+# Java class files 
+*.class 
+ 
+# Python compiled files 
+*.pyc 
+*.pyo 
+__pycache__/* 

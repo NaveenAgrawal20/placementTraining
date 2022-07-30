@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/main.cpp
+bits/stdc++.h
+-
+
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/stackArr.cpp
+bits/stdc++.h
+-
+

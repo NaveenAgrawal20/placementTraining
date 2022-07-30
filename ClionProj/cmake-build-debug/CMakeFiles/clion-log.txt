@@ -1,0 +1,4 @@
+"D:\software\cliongip\installedClion\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\data_strc\usingjava\Competitive\DsaCompttv\WithCpp\ClionProj
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/ClionProj/cmake-build-debug

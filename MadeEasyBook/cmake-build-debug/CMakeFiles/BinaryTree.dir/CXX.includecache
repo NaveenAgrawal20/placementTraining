@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/MadeEasyBook/Trees/BinaryTree.cpp
+iostream
+-
+BinaryTree.h
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/MadeEasyBook/Trees/BinaryTree.h
+queue
+-
+unordered_map
+-
+math.h
+-
+iomanip
+-
+
+E:/data_strc/usingjava/Competitive/DsaCompttv/WithCpp/MadeEasyBook/Trees/BinaryTree.h
+queue
+-
+stack
+-
+

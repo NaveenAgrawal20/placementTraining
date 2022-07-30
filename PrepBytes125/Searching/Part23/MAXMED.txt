@@ -1,0 +1,160 @@
+Let array A be, 2 5 1 4 3
+and, capacity is 2, we sort array, so that we can get a non-decreasing sequence to find median, after sorting array, we get
+Median of an odd sized array is middle element of it's non-decreasing form, so our current median lies at index 2, i.e. our current median is 3.
+We make current median equal to elements to it's right, so total steps would be A[mid+1]-A[mid], i.e. 1 in current test case , so our array becomes [1 2 4 4 5 ],
+We consumes 1 step in last step, so we're left with only 1 capacity.
+Now, our median have become 4 and middle index and element at it's right are same now. So, we move forward toward more right of middle index, i.e. index 4 at which 5 resides.
+We convert all values between median index and right index equal to the value to the current right index i.e. 5, so total number of operations will be,
+operations = (rightIndex - middleIndex) * (A[rightIndex]-A[middleIndex])
+operations = (4-2) * (5-4)
+operations = 2 * 1
+operations = 2
+Total numeber of operation required are 2, but we are left with only 1 capacity, hence we skip this step, and print our current median because we cannot afford further step. So, our final median becomes 4.
+Look into this hint, take some time to understand this.
+
+
+
+#include <bits/stdc++.h>
+using namespace std;
+ 
+// Function to check operation can be
+// perform or not
+bool possible(int arr[], int N,
+              int mid, int K)
+{
+ 
+    int add = 0;
+ 
+    for (int i = N / 2 - (N + 1) % 2;
+         i < N; ++i) {
+ 
+        if (mid - arr[i] > 0) {
+ 
+            // Number of operation to
+            // perform s.t. mid is median
+            add += (mid - arr[i]);
+ 
+            if (add > K)
+                return false;
+        }
+    }
+ 
+    // If mid is median of the array
+    if (add <= K)
+        return true;
+    else
+        return false;
+}
+ 
+// Function to find max median
+// of the array
+int findMaxMedian(int arr[], int N,
+                  int K)
+{
+ 
+    // Lowest possible median
+    int low = 1;
+    int mx = 0;
+ 
+    for (int i = 0; i < N; ++i) {
+        mx = max(mx, arr[i]);
+    }
+ 
+    // Highest possible median
+    long long int high = K + mx;
+ 
+    while (low <= high) {
+ 
+        int mid = (high + low) / 2;
+ 
+        // Checking for mid is possible
+        // for the median of array after
+        // doing at most k operation
+        if (possible(arr, N, mid, K)) {
+            low = mid + 1;
+        }
+ 
+        else {
+            high = mid - 1;
+        }
+    }
+ 
+    if (N % 2 == 0) {
+ 
+        if (low - 1 < arr[N / 2]) {
+            return (arr[N / 2] + low - 1) / 2;
+        }
+    }
+ 
+    // Return the max possible ans
+    return low - 1;
+}
+ 
+// Driver Code
+int main()
+{
+    // Given array
+    int N,K;
+    cin >> N >> K;
+    int *arr = new int[N];
+    for(int i = 0;i<N;i++)
+        cin>>arr[i];
+    // Sort the array
+    sort(arr, arr + N);
+ 
+    // Function call
+    cout << findMaxMedian(arr, N, K);
+ 
+    return 0;
+}
+/*
+7 7
+4 1 2 4 3 4 4
+*/
+
+
+#include <bits/stdc++.h>
+ 
+inline int read() {
+    char c; int x; for (c = getchar(); !isdigit(c); c = getchar());
+    for (x = 0; isdigit(c); c = getchar()) { x = x * 10 + c - '0'; } return x;
+}
+ 
+const int N = 1e6 + 5;
+ 
+int n, m, k, ans, a[N];
+ 
+bool check(int x) {
+    long long sum = 0;
+    for (int i = 0; i < m; i++) {
+        sum += std::max(0ll, 0ll + x + a[i]);
+    }
+    return sum <= k;
+}
+ 
+int main() {
+    n = read(); m = n / 2 + 1; k = read();
+    for (int i = 0; i < n; i++) { a[i] = -read(); }
+    std::sort(a, a + n);
+    for (int l = 0, r = 2e9, mid; l <= r; ) {
+        mid = (0ll + l + r) / 2;
+        if (check(mid)) {
+            l = mid + 1; ans = mid;
+        } else {
+            r = mid - 1;
+        }
+    }
+    printf("%d\n", ans);
+    return 0;
+}
+
+/*
+For arr=1 3 5 7 8 , K = 4 and N = 5 , Let us initialize count = 0 , and mid = (n+1)/2 thus arrmid = 5.
+Increase 5 two times so 5 become 7, count =2, now array become 1 3 7 7 8.
+Increase mid=mid+1, now mid=4, Increase arrmid=7 one time, so now array become 1 3 7 8 8, count=3.
+Increase mid=mid+1, mid=5. Now we can't increase amid because there is no number after that but the count is less than k.
+So again start with mid of array i.e mid=3, add one time, now arr is 1 3 8 8 8, count =4, count == k so arrmid=8, and our output will be 8.
+Understand this example thoroughly, and think of implementing it now.
+Don't forget to sort the array before implementing your algorithm.
+
+*/

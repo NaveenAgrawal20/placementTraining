@@ -1,0 +1,3 @@
+"D:\software\cliongip\installedClion\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\lps_leetcode.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\lps_leetcode.dir/objects.a @CMakeFiles\lps_leetcode.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\lps_leetcode.dir/objects.a -Wl,--no-whole-archive  -o lps_leetcode.exe -Wl,--out-implib,liblps_leetcode.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lps_leetcode.dir\linklibs.rsp

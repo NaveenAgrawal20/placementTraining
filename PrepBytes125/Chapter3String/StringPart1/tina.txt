@@ -1,0 +1,9 @@
+2
+
+xaxxxxa
+aaabaa
+
+Output
+3
+
+6

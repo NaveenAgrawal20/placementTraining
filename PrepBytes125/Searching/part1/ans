@@ -1,0 +1,26 @@
+2
+0
+1
+0
+0
+2
+1
+2
+
+2
+0
+1
+0
+0
+2
+1
+2
+
+https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+
+Find the pivot element. for eg in array(3 4 5 1 2), pivot is 5.
+You can find pivot elements using binary search.
+After this, apply binary search on two subarrays, array(0-pivot) and array(pivot+1,n).
+Another optimal solution is to, Modify your binary search conditions to apply on the whole array.
+We can search an element in one pass of Binary Search. Think About this approach.
+After finding the mid element, check if the first half is sorted or not and similarly for the second half, and develop conditions accordingly.
