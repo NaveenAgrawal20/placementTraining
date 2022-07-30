@@ -3,6 +3,7 @@
 *.a 
 *.so 
 *.exe
+*.txt
 
 # Java class files 
 *.class 
